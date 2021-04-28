@@ -36,7 +36,7 @@ Manually you can go to (**Preferences > Settings - User**) and paste the followi
 
 ```json
 {
-    "theme": "Gruvbox Material Dark.sublime-theme"
+    "theme": "Gruvbox Material Dark.sublime-theme",
     "color_scheme": "Packages/Gruvbox Material Theme/Gruvbox Material Dark/Gruvbox Material Dark.sublime-color-scheme",
 }
 ```
