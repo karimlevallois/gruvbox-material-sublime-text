@@ -1,6 +1,6 @@
 ## Gruvbox Material
 
-This theme is a port of [Gruvbox Material](https://github.com/gruvbox-material/gruvbox-material) for Sublime Text 4.
+This theme is a port of [Gruvbox Material](https://github.com/gruvbox-material/gruvbox-material) for Sublime Text.
 
 ## Dark
 
