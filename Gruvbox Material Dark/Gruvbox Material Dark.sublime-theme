@@ -58,7 +58,7 @@
 		"file_tab_angled_unselected_light_label_color": "hsl(0, 0%, 44%)",
 		"file_tab_angled_unselected_light_label_shadow": "color(#d4be98 a(0.25))",
 
-		"file_tab_unselected_label_color": "#d4be98",
+		"file_tab_unselected_label_color": "#7c6f64",
 		"file_tab_unselected_light_label_color": "hsl(0, 0%, 20%)",
 		"file_tab_selected_label_color": "#d4be98",
 		"file_tab_selected_light_label_color": "hsl(0, 0%, 20%)",
