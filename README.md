@@ -10,6 +10,14 @@ Gruvbox Material is a modified version of [Gruvbox](https://github.com/morhetz/g
 
 A light version will follow, I just need to find some free time to put it together.
 
+## Python
+
+![](python.png)
+
+## HTML
+
+![](html.png)
+
 ## Installation
 
 **Easy:**
