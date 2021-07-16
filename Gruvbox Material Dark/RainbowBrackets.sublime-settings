@@ -1,0 +1,64 @@
+// RainbowBrackets Preferences – User
+// ====================================================
+
+{
+    "debug": false,
+
+    "brackets": {
+        "pairs": {
+            "(": ")",
+            "[": "]",
+            "{": "}"
+        },
+
+        "filetypes": {
+            "default": {
+                "opening": ["(", "[", "{"],
+                "ignored_scopes": [
+                    "comment", "string"
+                ]
+            },
+
+            "scheme": {
+                "opening": ["(", "[", "{"],
+                "ignored_scopes": [
+                    "comment", "string", "constant.character", "symbol"
+                ],
+                "extensions": [
+                    "scm",
+                    "ss"
+                ]
+            },
+
+            "python": {
+                "opening": ["(", "[", "{"],
+                "ignored_scopes": [
+                    "comment", "string"
+                ],
+                "extensions": [
+                    "python", "html",
+                    "sublime-settings",
+                    "sublime-menu",
+                    "sublime-build",
+                    "sublime-keymap",
+                    "sublime-commands",
+                    "sublime-theme",
+                    "sublime-color-scheme"
+                ]
+            }
+        }
+    },
+
+    "rainbow_colors": {
+        "matched": [
+            "var(green)",
+            "var(yellow)",
+            "var(orange)",
+            "var(blue)",
+            "var(magenta)",
+            "var(cyan)",
+            "var(white)"
+        ],
+        "mismatched": "var(red)"
+    }
+}
